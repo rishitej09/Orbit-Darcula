@@ -9,6 +9,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rishitej09/Orbit-Darcula.git"
+  },
   "keywords": [
     "orbit",
     "dark",
